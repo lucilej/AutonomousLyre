@@ -2,7 +2,7 @@
 <ul>
   <li><p>J'ai réfléchi sur quel type de support la lyre pourrait tenir, ainsi que les servomoteurs</p></li>
   <li><p>Réalisation d'un schéma illustrant la lyre et le support qui tient les servomoteurs</p></li>
-  <li><p>J'ai choisi quel moteur correspond le mieux pour le pincement des cordes</p></li>
+  <li><p>Choix moteur correspondant le mieux au pincement des cordes</p></li>
   <li><p>J'ai lu le cours disponible sur les servomoteurs en faisant un petit montage pour voir comment cela fonctionne</p></li>
-  ![Montage d'un servomoteur](/Documents/Images/IMG_02_51.jpeg)
+  <img src="/Documents/Images/IMG_0251.jpeg" alt="Montage d'un servomoteur" style="width:300px;height:400px;"/>
     
