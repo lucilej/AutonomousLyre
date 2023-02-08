@@ -7,5 +7,5 @@
   <li><p>J'ai étudié chaque moteur un par un pour savoir à quel angle il est mieux de les faire jouer, les mesures sont différentes pour certains moteurs.</p></li>
   <img src="/Documents/Images/IMG_1589.jpg" alt="support et rectification des angles" style="width:300px;height:400px;"/>
   <li><p>J'ai essayé de faire jouer tous les moteurs situés à l'avant de la lyre, parfois certains moteurs jouaient mal ou la corde d'à côté. 2 moteurs ont arrêté de tourner après plusieurs essais. </p></li>
-  <img src="/Documents/Images/" alt="video" style="width:300px;height:400px;"/>
+  <video src="" autoplay poster="vignette.jpg">
   <li><p>D'ici la prochaine séance il faudrait que je rectifie certains angles et quelques médiators, de sorte à ce que tous les moteurs jouent normalement les cordes<p></li>
