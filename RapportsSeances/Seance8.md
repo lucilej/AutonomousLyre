@@ -1,5 +1,5 @@
-<h1>Rapport de la séance 8 du 1er mars 2023</h1>
-<ul> <p>PENDANT LES VACANCES:</p>
+<h1>Rapport de la séance 8 du 1er mars 2023 et des vacances</h1>
+<ul> 
   <li><p>J'ai fini de stabiliser le support avec une colle très rapide à bois, avec du scotch double face j'ai stabilisé la lyre et la carte Arduino. </p></li>
   <img src="/Documents/Images/" alt="" style="width:300px;height:400px;"/>
   <li><p>J'ai installé les logiciels dont j'avais besoin pour utiliser le protocole MIDI : un logiciel de création musicale (GarageBand), un logiciel servant de pont pour relier le port série et le port MIDI virtuel. Sur MAC OS,  il y a déjà une configuration de port MIDI virtuel incluse : IAC Driver. Un gros problème vient : Hairless MIDI ne peut pas s'ouvrir car pas compatible avec ma version de Mac. J'ai donc testé de multiples méthodes pour que j'arrive à connecter tous les logiciels avec ma carte Arduino sans Hairless MIDI : installer une machine virtuelle (échec), essayer sans Hairless MIDI en configurant d'autres paramètres de mon MAC (échec), télécharger la bibliothèque Apple-MIDI et USB-MIDI(échec). <br> Au final, on m'a prêté un PC Windows. Pour Windows j'ai téléchargé Ableton LIVE (logiciel de création musicale), Hairless MIDI, LoopMIDI (qui permet de créer des ports MIDI virtuels). J'ai réussi à installer les logiciels sans problème.<p></li>
@@ -8,8 +8,6 @@
   <img src="/Documents/Images/" alt="" style="width:300px;height:400px;"/>
   <li><p>Au début, un message revenait souvent sur Hairless MIDI me disant que les FTDI Drivers ne semblaient pas être installés sur l'ordinateur, cela empechait tout signal MIDI d'être envoyé à la carte Arduino. Pourtant, les FTDI Drivers étaient bien installés. Au final, il s'est avéré que c'était un bug du logiciel. Ainsi, pour remédier à ce bug, j'ai découvert qu'il suffisait de sélectionner une nouvelle fois le port série de la carte Arduino dans Hairless MIDI après éxécution du programme.</p></li>
   <li><p>J'ai également inséré quelques pistes MIDI sur Ableton Live afin de voir si le programme marchait également avec ce logiciel. Il marchait. En revanche, ma lyre ayant seulement 16 cordes et des notes de sol à la (de 2 gammes au dessus), les pistes MIDI qui peuvent se jouer entièrement sont rares. En effet, la lyre jouaient quelques notes des pistes MIDI mais pas toutes.</p></li>
-  </ul>
-  <ul><p>LORS DE LA SEANCE : </p>
   <li><p>J'ai retesté toutes les positions des médiators et recollé certains, j'ai revissé des servomoteurs afin qu'ils soient plus stables, puisque d'un jour à l'autre les positions des servomoteurs semblent différentes puisque certains ne jouent plus bien leur corde</p></li>
   <li><p>J'ai changé une corde de la lyre et je l'ai accordée.</p><li>
   <li><p>J'ai cherché des musiques MIDI à importer sur Ableton Live qui peuvent jouer mes 16 cordes sur des sites tels que bitmidi.com ou freemidi.org.</p></li>
