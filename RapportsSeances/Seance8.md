@@ -10,7 +10,7 @@
   <li><p>J'ai également inséré quelques pistes MIDI sur Ableton Live afin de voir si le programme marchait également avec ce logiciel. Il marchait. En revanche, ma lyre ayant seulement 16 cordes et des notes de sol à la (de 2 gammes au dessus), les pistes MIDI qui peuvent se jouer entièrement sont rares. En effet, la lyre jouaient quelques notes des pistes MIDI mais pas toutes.</p></li>
    <img src="/Documents/Images/IMG_1871" alt="Ableton live" style="width:300px;height:400px;"/>
   <li><p>J'ai retesté toutes les positions des médiators et recollé certains, j'ai revissé des servomoteurs afin qu'ils soient plus stables, puisque d'un jour à l'autre les positions des servomoteurs semblent différentes puisque certains ne jouent plus bien leur corde</p></li>
-  <li><p>J'ai changé une corde de la lyre et je l'ai accordée.</p><li>
+  <li><p>J'ai changé une corde de la lyre et je l'ai accordée.</p></li>
   <li><p>J'ai cherché des musiques MIDI à importer sur Ableton Live qui peuvent jouer mes 16 cordes sur des sites tels que bitmidi.com ou freemidi.org.</p></li>
     
 
